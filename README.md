@@ -5,7 +5,7 @@ Desenvolvendo uma aplicação ecommerce e sites completos.Começando com o desen
 ecnologias e estruturas adotadas no my-portfolio.
 
 Backend - Java
-Rotas Frontend - Angular frameework Material Animação Segurança 
-Autenticação e Autorização por roles 
-Banco de dados - Postgresql e test JUnite Mockito em dessenvolvimentos
+Rotas Frontend - React.js, tratamentos de rotas com express, hooks, Animação Segurança 
+Autenticação e Autorização por roles jwt
+Banco de dados - Postgresql e H2Database,test Jets em dessenvolvimentos
 Controle de Versão - Git, GitHub Deploy para produção nuvem.
